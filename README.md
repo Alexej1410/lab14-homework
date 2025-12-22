@@ -111,6 +111,15 @@ void main() {
 ```
 
 <h2>Схемы</h2>
+1) Функция full_elements<br>
+<img width="272" height="587" alt="image" src="https://github.com/user-attachments/assets/37105a00-b316-4115-90fe-bc9de1ac0e67" /><br>
+2) Функция put_elements<br>
+<img width="281" height="461" alt="image" src="https://github.com/user-attachments/assets/47ca62b2-2c25-49d1-8755-176a7927a532" /><br>
+3) Функция max_element<br>
+<img width="328" height="518" alt="image" src="https://github.com/user-attachments/assets/bf407bc9-5983-4b65-a49c-7cc6939cb5f2" /><br>
+4) main<br>
+<img width="282" height="700" alt="image" src="https://github.com/user-attachments/assets/7c2182ec-936a-491b-a8c0-41da6b93e75a" />
+
 
 <h2>Консоль</h2>
 <img width="640" height="437" alt="image" src="https://github.com/user-attachments/assets/9d810c7d-602a-44e5-bf3b-b8bc48d09e59" />
